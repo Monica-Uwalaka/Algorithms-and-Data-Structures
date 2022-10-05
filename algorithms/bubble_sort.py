@@ -24,5 +24,3 @@ def bubblesort(array):
         else:
             return array
     return array
-
-print(bubblesort([2,3,4,5,6,1]))
