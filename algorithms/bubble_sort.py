@@ -24,3 +24,5 @@ def bubblesort(array):
         else:
             return array
     return array
+
+print(bubblesort([1,5,6,3,4,2]))
